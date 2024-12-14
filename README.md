@@ -14,3 +14,5 @@ Esta aplicación web está diseñada para realizar un análisis exploratorio de 
   - pandas
   - plotly-express
   - streamlit
+
+  https://project-sprint-7.onrender.com/
